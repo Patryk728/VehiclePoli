@@ -1,7 +1,9 @@
 package com.company;
 
 public class Main {
-
+		
+	//Komentarz - zmiana w zdalnym repo
+	
     public static void main(String[] args) {
 	    Vehicle vehicle = new Vehicle();
 	    Vehicle car = new Car();
